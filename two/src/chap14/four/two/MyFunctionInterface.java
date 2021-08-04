@@ -1,4 +1,4 @@
-package chap14_four_two;
+package chap14.four.two;
 
 public interface MyFunctionInterface {
 	public int method();
